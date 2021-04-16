@@ -1,15 +1,29 @@
 item {
     id: 1
-    name: 'green'
+    name: 'bank_name'
 }
 
 item {
     id: 2
-    name: 'yellow'
+    name: 'customer_name'
 }
 
 item {
     id: 3
-    name: 'red'
+    name: 'date'
 }
 
+item {
+    id: 4
+    name: 'amount'
+}
+
+item {
+    id: 5
+    name: 'account_no'
+}
+
+item {
+    id: 6
+    name: 'micr_code'
+}
